@@ -15,7 +15,8 @@ The weather will determine if his business survives or not since it is an ice cr
 - 25%	73.000000           
 - 50%	75.000000           
 - 75%	77.000000           
-- max	85.000000           
+- max	85.000000
+           
   
 - Dec Temps
 - count	1517.000000
